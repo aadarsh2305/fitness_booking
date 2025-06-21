@@ -30,7 +30,7 @@ This is a simple Booking API for a fictional fitness studio built using **FastAP
  
 ```bash
 
-git clone [<your_repo_url>](https://github.com/aadarsh2305/fitness_booking.git)
+git clone https://github.com/aadarsh2305/fitness_booking.git
 
 cd fitness_booking
 
